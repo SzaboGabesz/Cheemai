@@ -56,7 +56,7 @@
     "electron-log": "^4.2.2",
     "electron-reload": "^1.5.0",
     "iso-3166-1": "^1.1.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "perfect-scrollbar": "^1.5.0",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
